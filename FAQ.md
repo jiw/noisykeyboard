@@ -1,12 +1,12 @@
 # Frequently Asked Questions (FAQ)
 
-*Last updated: 2/18/2025*
+*Last updated: 3/2/2025*
 
 ## No keyboard sound? Here's how to fix it:
 
 > **Important: Follow these steps to resolve sound issues**
 1. Open System Settings on your Mac
-2. Go to "Privacy & Security" → "Accessibility"
+2. Go to "Privacy & Security" → "Input Monitor"
 3. Find "NoisyKeyboard" in the list
 4. Enable the toggle switch for NoisyKeyboard
 5. Restart the application
