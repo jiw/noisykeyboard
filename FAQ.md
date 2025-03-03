@@ -6,7 +6,7 @@
 
 > **Important: Follow these steps to resolve sound issues**
 1. Open System Settings on your Mac
-2. Go to "Privacy & Security" → "Input Monitor"
+2. Go to "Privacy & Security" → "Input Monitoring"
 3. Find "NoisyKeyboard" in the list
 4. Enable the toggle switch for NoisyKeyboard
 5. Restart the application
