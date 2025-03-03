@@ -15,8 +15,8 @@
 
 ## Frequently Asked Questions
 
-### Why does NoisyKeyboard need Accessibility permission?
-NoisyKeyboard needs Accessibility permission to detect your keystrokes and play the corresponding mechanical keyboard sounds. This permission is essential for the app to function properly. We only use this permission to detect keyboard events and do not collect any personal information.
+### Why does NoisyKeyboard need Input Monitoring permission?
+NoisyKeyboard needs Input Monitoring permission to detect your keystrokes and play the corresponding mechanical keyboard sounds. This permission is essential for the app to function properly. We only use this permission to detect keyboard events and do not collect any personal information.
 
 ### Will NoisyKeyboard affect my system performance?
 No, NoisyKeyboard is designed to be lightweight and efficient. It uses minimal system resources and won't noticeably impact your system performance.
