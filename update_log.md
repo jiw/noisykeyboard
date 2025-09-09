@@ -1,5 +1,8 @@
 # Update Log
 
+## v1.0.5 (9/10/2025）
+- Add auto start (Now you can set it to auto-start and forget about it! 🚀🚀）
+
 ## v1.0.4 (8/27/2025）
 - Add volume saving
 - Add sound effect selection persistence with auto-restore functionality
