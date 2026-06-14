@@ -40,6 +40,11 @@ Each sound option simulates a different Cherry MX mechanical switch type, offeri
 - Speed Silver: Ultra-light and fast
 - Tactile Gray: Heavy tactile feedback
 
+### What is "Random Volume Compensation"？
+"Random Volume Compensation" toggle: 
+When enabled, each keystroke's volume varies slightly on top of your overall volume, making continuous typing sound more natural—closer to a real mechanical keyboard.
+When disabled, all keystrokes play at a fixed volume.
+
 ## Contact Us
 
 If you have any questions or need support, please feel free to contact us:
