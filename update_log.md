@@ -1,5 +1,8 @@
 # Update Log
 
+## v1.0.6 (6/14/2026）
+- Added a "Random Volume Compensation" toggle: when enabled, each keystroke's volume varies slightly on top of your overall volume, making continuous typing sound more natural—closer to a real mechanical keyboard.
+
 ## v1.0.5 (9/10/2025）
 - Add auto start (Now you can set it to auto-start and forget about it! 🚀🚀）
 
