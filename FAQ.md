@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ)
 
-*Last updated: 3/2/2025*
+*Last updated: 6/14/2026*
 
 ## No keyboard sound? Here's how to fix it:
 
