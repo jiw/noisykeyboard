@@ -1,5 +1,8 @@
 # Update Log
 
+## v1.0.7 (9/15/2026）
+- Added support for the following languages: Thai, Hindi, Indonesian, French, German, Italian, Spanish (Spain), Portuguese (Brazil), and Arabic.
+
 ## v1.0.6 (6/14/2026）
 - Added a "Random Volume Compensation" toggle: when enabled, each keystroke's volume varies slightly on top of your overall volume, making continuous typing sound more natural—closer to a real mechanical keyboard.
 
