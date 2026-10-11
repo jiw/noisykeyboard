@@ -1,5 +1,8 @@
 # Update Log
 
+## v1.0.8 (10/11/2026）
+- When Random Volume Compensation is on, a range slider lets you set how much the volume differs between fast and slow typing, without going above your overall volume.
+
 ## v1.0.7 (9/15/2026）
 - Added support for the following languages: Thai, Hindi, Indonesian, French, German, Italian, Spanish (Spain), Portuguese (Brazil), and Arabic.
 
